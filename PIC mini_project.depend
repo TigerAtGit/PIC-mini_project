@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588268972 source:c:\users\pandit\desktop\c programs\pic mini_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+
